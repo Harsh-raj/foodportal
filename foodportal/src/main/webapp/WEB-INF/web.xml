@@ -6,43 +6,43 @@
   <display-name>Archetype Created Web Application</display-name>
   <servlet>
   	<servlet-name>GetLoginController</servlet-name>
-  	<display-name>GetLoginController</display-name>
+  	<display-name>GetLogin</display-name>
   	<description></description>
   	<servlet-class>com.prj.web.GetLoginController</servlet-class>
   </servlet>
   <servlet>
   	<servlet-name>GetMenuItemController</servlet-name>
-  	<display-name>GetMenuItemController</display-name>
+  	<display-name>GetMenuItem</display-name>
   	<description></description>
   	<servlet-class>com.prj.web.GetMenuItemController</servlet-class>
   </servlet>
   <servlet>
   	<servlet-name>GetFeedController</servlet-name>
-  	<display-name>GetFeedController</display-name>
+  	<display-name>GetFeed</display-name>
   	<description></description>
   	<servlet-class>com.prj.web.GetFeedController</servlet-class>
   </servlet>
   <servlet>
   	<servlet-name>GetStaffController</servlet-name>
-  	<display-name>GetStaffController</display-name>
+  	<display-name>GetStaff</display-name>
   	<description></description>
   	<servlet-class>com.prj.web.GetStaffController</servlet-class>
   </servlet>
   <servlet>
   	<servlet-name>GetMonSalesController</servlet-name>
-  	<display-name>GetMonSalesController</display-name>
+  	<display-name>GetMonSales</display-name>
   	<description></description>
   	<servlet-class>com.prj.web.GetMonSalesController</servlet-class>
   </servlet>
   <servlet>
   	<servlet-name>GetStocksController</servlet-name>
-  	<display-name>GetStocksController</display-name>
+  	<display-name>GetStocks</display-name>
   	<description></description>
   	<servlet-class>com.prj.web.GetStocksController</servlet-class>
   </servlet>
   <servlet>
   	<servlet-name>GetDiscountsController</servlet-name>
-  	<display-name>GetDiscountsController</display-name>
+  	<display-name>GetDiscounts</display-name>
   	<description></description>
   	<servlet-class>com.prj.web.GetDiscountsController</servlet-class>
   </servlet>
